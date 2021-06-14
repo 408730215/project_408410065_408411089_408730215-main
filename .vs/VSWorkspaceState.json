@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lib",
+    "\\public",
+    "\\public\\assets",
+    "\\public\\assets\\img"
   ],
+  "SelectedNode": "\\public\\Accusefive.html",
   "PreviewInSolutionExplorer": false
 }
